@@ -1,15 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,50:8B5CF6,100:2EA043&height=210&section=header&text=Areesha%20Khan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%94%20full-stack,%20applied%20ML%20and%20automation&descSize=17&descAlignY=56&animation=fadeIn" width="100%" alt="Areesha Khan — Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,50:8B5CF6,100:2EA043&height=210&section=header&text=Areesha%20Khan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20%C2%B7%20Applied%20ML%20%C2%B7%20Automation&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Areesha Khan, Software Engineer" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&height=45&lines=deterministic+before+clever;if+the+README+claims+it%2C+there+is+a+test+for+it;ship+it+somewhere+clickable" alt="deterministic before clever — if the README claims it, there is a test for it — ship it somewhere clickable" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&height=45&lines=deterministic+before+clever;if+the+README+claims+it%2C+there+is+a+test+for+it;ship+it+somewhere+clickable" alt="deterministic before clever. if the README claims it, there is a test for it. ship it somewhere clickable." />
 
 </div>
 
 <br>
 
 - 🎓 &nbsp;Final-year **BS Software Engineering** at COMSATS University Islamabad, Wah Campus
-- 🔬 &nbsp;Currently deep in **synthetic data generation** — copulas, utility scoring and privacy attacks
+- 🔬 &nbsp;Currently deep in **synthetic data generation**: copulas, utility scoring and privacy attacks
 - 💬 &nbsp;Ask me about **deadlock detection**, **Gaussian copulas**, or wiring Stripe into a Flutter app
 - 🧪 &nbsp;I like problems where the hard part is *proving* the thing works, not getting it to run
 
@@ -27,8 +27,6 @@
 
 <br>
 
----
-
 ## Selected work
 
 > The repositories below say *what* each project is. This says why it was worth building.
@@ -43,12 +41,12 @@
 <td valign="top">
 
 Anything can emit plausible-looking rows. The hard question is whether a model trained on
-them survives contact with real data — so DataSeed **grades its own output** and refuses to
+them survives contact with real data, so DataSeed **grades its own output** and refuses to
 export when it fails.
 
-Train-on-synthetic/test-on-real utility, Kolmogorov–Smirnov fidelity, a membership-inference
+Train-on-synthetic/test-on-real utility, Kolmogorov Smirnov fidelity, a membership inference
 attack for leakage, and a detection AUC that catches the case where every column is
-individually perfect and the joint structure is broken.
+individually perfect while the joint structure is broken.
 
 **317 tests · no GPU** &nbsp;·&nbsp; [**Live**](https://dataseed.169.58.151.43.sslip.io) &nbsp;·&nbsp; [Architecture](https://github.com/AreeshaKhan25/DataSeed/blob/main/docs/01-ARCHITECTURE.md)
 
@@ -63,9 +61,9 @@ individually perfect and the joint structure is broken.
 <td valign="top">
 
 Most OS coursework simulates the algorithms on fake processes. This runs them against
-**real contention** — actual students competing for actual lab rooms.
+**real contention**, where actual students compete for actual lab rooms.
 
-Banker's algorithm deciding whether a booking is safe to grant, a resource-allocation graph
+Banker's algorithm deciding whether a booking is safe to grant, a resource allocation graph
 finding genuine cycles, and semaphores guarding a critical section that two people really can
 hit at once.
 
@@ -81,7 +79,7 @@ hit at once.
 </td>
 <td valign="top">
 
-The same airport-transfer product, built **three times on purpose** — as a Flutter app, as a
+The same airport transfer product, built **three times on purpose**: as a Flutter app, as a
 Laravel site, and as classical PHP with a hand-rolled router and no framework at all.
 
 Writing the third one is what taught me which parts of a framework are load-bearing and which
