@@ -114,13 +114,18 @@ Kept public because knowing what Tailwind is doing for you is worth more than kn
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AreeshaKhan25&show_icons=true&hide_border=true&theme=github_dark&title_color=8B5CF6&icon_color=2EA043" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreeshaKhan25&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=8B5CF6" alt="Top languages" />
+<img src="https://img.shields.io/badge/TypeScript-30%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript 30 percent" />
+<img src="https://img.shields.io/badge/PHP%20%2F%20Laravel-30%25-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP and Laravel 30 percent" />
+<img src="https://img.shields.io/badge/Python-18%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 18 percent" />
+<img src="https://img.shields.io/badge/Dart%20%2F%20Flutter-11%25-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart and Flutter 11 percent" />
+<img src="https://img.shields.io/badge/HTML%20%2F%20CSS-7%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML and CSS 7 percent" />
+
+<sub>Share of 3.2 MB of code across eight public repositories.</sub>
 
 <br>
 <br>
 
-<img height="165" src="https://streak-stats.demolab.com?user=AreeshaKhan25&theme=dark&hide_border=true&disable_animations=true&ring=8B5CF6&fire=2EA043&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8B5CF6" alt="Contribution streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=AreeshaKhan25&theme=dark&hide_border=true&disable_animations=true&ring=8B5CF6&fire=2EA043&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8B5CF6" alt="Contribution streak" />
 
 </div>
 
