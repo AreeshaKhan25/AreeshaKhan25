@@ -134,14 +134,10 @@ Kept public because knowing what Tailwind is doing for you is worth more than kn
 
 <div align="center">
 
-<!-- Add your links here once you have them:
-<a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR@EMAIL.COM"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
--->
-
 **Open to software engineering internships and junior roles.**
 
-<a href="https://github.com/AreeshaKhan25?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" /></a>
+<a href="https://www.linkedin.com/in/areeshakhan12/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/AreeshaKhan25?tab=repositories"><img src="https://img.shields.io/badge/All_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" /></a>
 
 </div>
 
