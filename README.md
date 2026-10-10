@@ -117,12 +117,12 @@ Kept public because knowing what Tailwind is doing for you is worth more than kn
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AreeshaKhan25&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=8B5CF6&icon_color=2EA043&bg_color=0d1117&text_color=c9d1d9" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreeshaKhan25&layout=compact&hide_border=true&langs_count=8&title_color=8B5CF6&bg_color=0d1117&text_color=c9d1d9" alt="Top languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AreeshaKhan25&show_icons=true&hide_border=true&theme=github_dark&title_color=8B5CF6&icon_color=2EA043" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AreeshaKhan25&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=8B5CF6" alt="Top languages" />
 
 <br>
 
-<img height="160" src="https://streak-stats.demolab.com?user=AreeshaKhan25&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=2EA043&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Contribution streak" />
+<img height="160" src="https://streak-stats.demolab.com?user=AreeshaKhan25&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=2EA043&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Contribution streak" />
 
 </div>
 
